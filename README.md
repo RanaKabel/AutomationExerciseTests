@@ -39,13 +39,13 @@ AutomationExerciseTests/
 │   ├── HomePage.cs           # Home page object
 │   └── SignupLoginPage.cs    # Login/signup page object
 ├── TestData/
-│   ├── loginData.json        # Login test scenarios
-│   └── registrationData.json # Registration test scenarios
+│   ├── loginData.json        # Login test Data
+│   └── registrationData.json # Registration test data
 ├── Tests/
 │   ├── ApiAuthTests.cs       # API authentication tests
 │   └── UIUserAuthTests.cs    # UI user authentication tests
 └── Utils/
-    └── TestUtils.cs          # Utility functions (implied)
+    └── TestUtils.cs          # Utility functions 
 ```
 
 ##  Getting Started
