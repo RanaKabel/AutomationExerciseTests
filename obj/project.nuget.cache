@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNXrmPXPYeA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\safwa\\Downloads\\AutomationExerciseTests\\AutomationExerciseTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safwa\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\aspectinjector\\2.6.0\\aspectinjector.2.6.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\extentreports\\5.0.0\\extentreports.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.codeanalysis.common\\3.9.0\\microsoft.codeanalysis.common.3.9.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.9.0\\microsoft.codeanalysis.csharp.3.9.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\mimetypesmap\\1.0.8\\mimetypesmap.1.0.8.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\nunit.allure\\1.2.0\\nunit.allure.1.2.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\razorengine.netcore.nixfix\\1.0.1\\razorengine.netcore.nixfix.1.0.1.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\selenium.support\\4.34.0\\selenium.support.4.34.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\selenium.webdriver\\4.34.0\\selenium.webdriver.4.34.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\selenium.webdriver.chromedriver\\124.0.6367.20700\\selenium.webdriver.chromedriver.124.0.6367.20700.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.34.0\\selenium.webdriver.geckodriver.0.34.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\safwa\\.nuget\\packages\\webdrivermanager\\2.17.6\\webdrivermanager.2.17.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "AutomationExerciseTests depends on ExtentReports (>= 4.1.1) but ExtentReports 4.1.1 was not found. An approximate best match of ExtentReports 5.0.0 was resolved.",
+      "libraryId": "ExtentReports",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RestSharp' 110.2.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4rr6-2v9v-wcpc",
+      "libraryId": "RestSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

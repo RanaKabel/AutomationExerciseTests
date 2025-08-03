@@ -1,0 +1,16 @@
+[
+  {
+    "TestCase": "ValidLogin",
+    "Email": "registered_user@example.com",
+    "Password": "Password123!",
+    "ExpectedStatusCode": 200,
+    "ExpectedError": ""
+  },
+  {
+    "TestCase": "InvalidLogin",
+    "Email": "wrong@example.com",
+    "Password": "WrongPassword",
+    "ExpectedStatusCode": 404,
+    "ExpectedError": "User not found!"
+  }
+]
